@@ -14,7 +14,6 @@ import Messaging2156381Navigator from '../features/Messaging2156381/navigator';
 import NotificationList3156380Navigator from '../features/NotificationList3156380/navigator';
 import Settings4156379Navigator from '../features/Settings4156379/navigator';
 import SignIn46156377Navigator from '../features/SignIn46156377/navigator';
-import UserProfile8156375Navigator from '../features/UserProfile8156375/navigator';
 
 /**
  * new navigators can be imported here
@@ -32,7 +31,6 @@ Messaging2156381: { screen: Messaging2156381Navigator },
 NotificationList3156380: { screen: NotificationList3156380Navigator },
 Settings4156379: { screen: Settings4156379Navigator },
 SignIn46156377: { screen: SignIn46156377Navigator },
-UserProfile8156375: { screen: UserProfile8156375Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
