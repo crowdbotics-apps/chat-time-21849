@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'NotificationList10156388', human_name: 'Notification List 10', access_route: 'NotificationList10156388'},
 { name: 'Messaging11156387', human_name: 'Messaging 11', access_route: 'Messaging11156387', icon: 'comments'},
 { name: 'Settings12156386', human_name: 'Settings 12', access_route: 'Settings12156386'},
 { name: 'SignIn214156384', human_name: 'Sign In 2 14', access_route: 'SignIn214156384'},
